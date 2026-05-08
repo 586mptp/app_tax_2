@@ -148,7 +148,7 @@ export default function HomePage() {
         </h1>
       </header>
 
-      <section className="mx-auto max-w-[900px] px-4 py-5">
+      <section className="mx-auto max-w-225 px-4 py-5">
         {/* ΣΤΟΙΧΕΙΑ */}
         <div className="mb-5 rounded-lg border border-[#b0a882] bg-[#faf8f4] p-5">
           <CardTitle number="1" title="Στοιχεία Πίνακα" />
